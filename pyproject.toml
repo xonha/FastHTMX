@@ -1,12 +1,12 @@
 [tool.poetry]
 name        = "fasthtmx"
-version     = "0.1.0"
+version     = "0.1.1"
 description = ""
 authors     = ["henrique <henrique@xonha.space>"]
 readme      = "README.md"
 
 [tool.poetry.dependencies]
-python  = "^3.11"
+python  = "^3.8"
 fastapi = "^0.109.0"
 
 [build-system]
